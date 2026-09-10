@@ -6,7 +6,7 @@ Throughout this challenge, you will interact with several of the core tools and 
 
 - **[Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) & GitHub** for version control and submitting your work
 - **[Docker](https://docs.docker.com/get-started/get-docker/)** for creating a reproducible development environment
-- **[ROS 2](https://docs.ros.org/en/humble/Installation.html)** for creating your package and running the nodes
+- **[ROS 2](https://docs.ros.org/en/humble/Installation.html)** for creating your package and running your node
 - **C++ or Python** for implementing your code
 - **[Colcon](https://docs.ros.org/en/humble/Tutorials/Beginner-Client-Libraries/Colcon-Tutorial.html)** for building your ROS 2 workspace
 - **Command line** for building, running, and interacting with your environment
