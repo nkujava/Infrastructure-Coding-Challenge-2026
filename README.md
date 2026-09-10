@@ -25,7 +25,7 @@ For this part of the challenge, your goal is to set up a development environment
 2. Install ROS 2 Humble inside the container.
 4. Build and run the container.
 5. Verify that ROS 2 is working by successfully running the `ros2` command inside the container. 
-6. Clone this repository into the container and create your [ROS 2 workspace](https://docs.ros.org/en/humble/Tutorials/Beginner-Client-Libraries/Creating-A-Workspace/Creating-A-Workspace.html) inside the repository.
+6. Fork then clone this repository into the container and create your [ROS 2 workspace](https://docs.ros.org/en/humble/Tutorials/Beginner-Client-Libraries/Creating-A-Workspace/Creating-A-Workspace.html) inside the repository.
 
 ## Open-Ended Coding Challenge
 
@@ -56,7 +56,7 @@ Your repository you hand off to me should have:
 - A screenshot of your command line successful running `ros2` or any other command that proves your environment is functional
 
 ## Notes Before Starting:
-- Clone this repository and do all your work in that directory, you will be pushing your code to github and submitting the link in the google form when complete.
+- Fork then clone this repository and do all your work in that directory, you will be pushing your code to github and submitting the link in the google form when complete.
 - This is meant to be a practical in independently setting up and using industry standard tools. Therefore you should use any tools you're comfortable with for gathering information and learning. This can be consulting a friend, the internet, [documentation](https://docs.ros.org/en/foxy/Releases/Release-Humble-Hawksbill.html), or LLMs.
 - The requirements to complete this coding challenge are intentionally kept simple in order to make earnestly engaging with the task reasonable
 - If you have any extenuating circumstances (For example a computer that cannot run any of the stated software) that make completing this challenge impossible, or you have any questions (I will help you if needed) contact nkujava@wisc.edu
